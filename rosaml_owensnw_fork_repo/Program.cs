@@ -14,8 +14,8 @@ namespace rosaml_owensnw_fork_repo
             myCar.Price = 275000;  
             myCar.Name = "Lamborgini Urus";
             Console.WriteLine("The name of the car is " + myCar.Name);
-            Console.WriteLine("Price of my Car is " + myCar.Price); 
-            
+            Console.WriteLine("Price of my Car is " + myCar.Price);
+            Console.WriteLine("Noah Owens n Manny Rosa");
         }
     }
 }
